@@ -10,4 +10,5 @@ npm create vite@latest
 [Headless UI](https://headlessui.dev)
 
 ## Deploy
-[Vercel]()
+[Vercel](https://vercel.com)
+[Visit](https://nlw-feedget-89ytm2knw-br-silvano.vercel.app)
